@@ -101,7 +101,7 @@ The main file to run the whole training process is `nf_train_mean_cost.py`. This
 ## Latent from Encoder
 This file `latent_from_model.py` can be used to feed the whole dataset to the encoder and save the latent variable to be later used to finetune the motor network.
 
-## train LSTM alone
+## Train LSTM alone
 The `train_lstm_alone.py` can be used to train only the motor network on the extracted latents. Note that you need to change the path to the latents inside the code.
 
 ## Testing on the robot
