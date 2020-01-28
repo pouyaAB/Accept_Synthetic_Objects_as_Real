@@ -1,4 +1,4 @@
-# Pay Attention! Robustifying a Deep Visuomotor Policy through Task-Focused Visual Attention
+# Accept Synthetic Objects as Real
 
 ## Dataset 
 Please download the dataset from this [link](https://drive.google.com/file/d/1zo0DtuIjLWhFkpZdk9o-26tJ54iXg1pV/view?usp=sharing).
